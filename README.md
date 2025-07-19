@@ -84,7 +84,7 @@ Várias mecânicas — completas e em estágio de teste — foram desenvolvidas 
 
 💾 Download Completo do Projeto
 
-Para baixar todos os assets e cenas completas, acesse: https://mega.nz/folder/v0AQWQAI#77jjVemhdrh6_UNwpDCvdw
+Para baixar todos os assets e cenas completas, acesse: https://mega.nz/file/a95nyRZL#0NaZ4ixqpNbeXrAxd1Gxmqm7LQY_-S0MyWvn_Eu1pls
 
 🤝 Contribuições
 
